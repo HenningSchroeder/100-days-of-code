@@ -5,9 +5,10 @@ b = input("b: ")
 
 ####################################
 #Write your code below this line 👇
-
-
-
+# use c as intermediate container
+c = a
+a = b
+b = c 
 
 
 #Write your code above this line 👆
